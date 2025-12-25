@@ -1,3 +1,4 @@
+
 # Transaction And Customer Concentration Analysis For Risk‑Aware Decision Making
 This project analyzes transaction and customer data to identify where revenue and activity are concentrated across customers, products, and time. The main goal is to help the business or risk team understand which segments, categories, and periods are most important, so they can prioritize monitoring and controls in those areas.
 
@@ -9,3 +10,4 @@ This project analyzes transaction and customer data to identify where revenue an
 
 # Conclusion:
 By focusing on these high-impact segments and critical periods, the project helps the business protect revenue, manage risks, and ensure resilience. The findings guide targeted marketing, inventory management, and proactive risk mitigation, making the business more effective and secure.
+
