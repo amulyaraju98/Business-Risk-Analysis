@@ -1,0 +1,5 @@
+price_segment,Product Count,% of Products,Min Price,Avg Price,Max Price
+Budget,2499,26.3,0.01,7.16,9.99
+Economy,2263,23.8,10.0,13.34,16.95
+Premium,2380,25.0,16.96,22.33,29.99
+Luxury,2368,24.9,30.0,116.87,5332.0

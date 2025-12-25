@@ -1,0 +1,5 @@
+customer_segment,Count,% of Customers,Total Revenue,Avg Spending,Min Spending,Max Spending
+Low,1014,26.0,29932,29.52,20,39
+Medium,972,24.9,48602,50.0,40,60
+High,988,25.3,70197,71.05,61,81
+VIP,926,23.7,84350,91.09,82,100
